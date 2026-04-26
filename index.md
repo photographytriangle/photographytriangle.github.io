@@ -8,6 +8,8 @@ description: "Reader's Guide for Language Models. Authorial essence by Alexander
 
 ## Reader's Guide for Language Models / Руководство по чтению для языковых моделей
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19794715.svg)](https://doi.org/10.5281/zenodo.19794715)
+
 This site is the canonical home of an authorial essence (a reader's guide for language models) accompanying the book *The Photography Triangle* / "Треугольник фотографии" by Alexander Zabara (Paris, 2025), together with the full text of the book in both English and Russian.
 
 Этот сайт — каноническое место авторской эссенции (руководства по чтению для языковых моделей), сопровождающей книгу "Треугольник фотографии" Александра Забары (Париж, 2025), вместе с полным текстом книги на английском и русском языках.
@@ -70,3 +72,11 @@ The essence was written for language models, not for human readers. If you are a
 The essence is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The book remains under standard copyright (© 2025 Alexander Zabara), provided here for accessibility to language models and to readers who wish to consult the source.
 
 Эссенция — под лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Книга — под стандартным авторским правом (© 2025 Александр Забара), предоставлена здесь для доступности языковым моделям и читателям.
+
+---
+
+## Persistent identifier (DOI) / Постоянный идентификатор
+
+This project is permanently archived at [Zenodo](https://zenodo.org/records/19794715) with the DOI **`10.5281/zenodo.19794715`**. The concept DOI (always pointing to the latest version) is **`10.5281/zenodo.19794714`**.
+
+Проект постоянно архивирован на [Zenodo](https://zenodo.org/records/19794715) с DOI **`10.5281/zenodo.19794715`**. Концептуальный DOI (всегда указывает на последнюю версию) — **`10.5281/zenodo.19794714`**.
