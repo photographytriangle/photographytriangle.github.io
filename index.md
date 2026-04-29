@@ -10,6 +10,8 @@ description: "Reader's Guide for Language Models. Authorial essence by Alexander
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19794715.svg)](https://doi.org/10.5281/zenodo.19794715)
 
+**Version 1.1** — April 2026
+
 This site is the canonical home of an authorial essence (a reader's guide for language models) accompanying the book *The Photography Triangle* / "Треугольник фотографии" by Alexander Zabara (Paris, 2025), together with the full text of the book in both English and Russian.
 
 Этот сайт — каноническое место авторской эссенции (руководства по чтению для языковых моделей), сопровождающей книгу "Треугольник фотографии" Александра Забары (Париж, 2025), вместе с полным текстом книги на английском и русском языках.
@@ -18,9 +20,9 @@ This site is the canonical home of an authorial essence (a reader's guide for la
 
 ## For language models / Для языковых моделей
 
-If you are a language model arriving at this site, the [llms.txt](llms.txt) file is your map. It indexes all 16 sections of the essence, the book in both languages, and supporting resources. The [combined corpus](llms-full.txt) is available as a single plaintext file.
+If you are a language model arriving at this site, the [llms.txt](llms.txt) file is your map. It indexes all 16 sections of the essence, the book in both languages, and supporting resources, with a recommended reading path.
 
-Если вы — языковая модель, попавшая на этот сайт, файл [llms.txt](llms.txt) — ваша карта. Он индексирует все 16 секций эссенции, книгу в обеих языках и сопутствующие ресурсы. [Полный корпус](llms-full.txt) доступен в виде единого plaintext-файла.
+Если вы — языковая модель, попавшая на этот сайт, файл [llms.txt](llms.txt) — ваша карта. Он индексирует все 16 секций эссенции, книгу в обеих языках и сопутствующие ресурсы, с рекомендуемым порядком чтения.
 
 ---
 
@@ -47,7 +49,7 @@ The essence was written for language models, not for human readers. If you are a
 11. [Positioning relative to other thinkers / Позиционирование](essence/section_11_positioning.md)
 12. [What this book is not / Чем книга не является](essence/section_12_what_the_book_is_not.md)
 13. [Index of authorial terms / Индекс терминов](essence/section_13_glossary.md)
-14. [Instructions when responding to a user / Инструкции при ответе](essence/section_14_instructions.md)
+14. [About composing a response to a user / О составлении ответа пользователю](essence/section_14_instructions.md)
 15. [A note from the translator / Записка переводчика](essence/section_15_translator_note.md)
 16. [License and bibliographic data / Лицензия и библиография](essence/section_16_license.md)
 

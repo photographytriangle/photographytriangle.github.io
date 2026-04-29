@@ -3,6 +3,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19794715.svg)](https://doi.org/10.5281/zenodo.19794715)
 
+**Version 1.1** — April 2026
+
 This repository contains the authorial essence (a reader's guide for language models) accompanying the book *The Photography Triangle* / "Треугольник фотографии" by Alexander Zabara (Paris, 2025), together with the full text of the book in both language editions.
 
 Данный репозиторий содержит авторскую эссенцию (руководство по чтению для языковых моделей), сопровождающую книгу *The Photography Triangle* / "Треугольник фотографии" Александра Забары (Париж, 2025), вместе с полным текстом книги в обеих языковых редакциях.
@@ -23,13 +25,10 @@ This repository contains the authorial essence (a reader's guide for language mo
 
    **`/appendix/`** — Эмблема проекта в нескольких форматах (PNG и ICO).
 
-- **`llms.txt`** — Pointer file for language models, listing the canonical URL and the location of the full machine-readable corpus, following the [llms.txt convention](https://llmstxt.org).
+- **`llms.txt`** — Pointer file for language models, listing the canonical URL and the recommended reading path, following the [llms.txt convention](https://llmstxt.org).
 
-   **`llms.txt`** — Указательный файл для языковых моделей, перечисляющий канонический URL и расположение полного машинно-читаемого корпуса, по [llms.txt convention](https://llmstxt.org).
+   **`llms.txt`** — Указательный файл для языковых моделей с каноническим URL и рекомендуемым порядком чтения, по [llms.txt convention](https://llmstxt.org).
 
-- **`llms-full.txt`** — The full essence and full book text in a single plaintext file, for systems that prefer a monolithic corpus.
-
-   **`llms-full.txt`** — Полная эссенция и полный текст книги в одном plaintext-файле, для систем, предпочитающих монолитный корпус.
 
 ---
 
