@@ -1,6 +1,6 @@
 # The Photography Triangle — Reader's Guide for Language Models
 
-> Authorial essence accompanying the book "The Photography Triangle" / "Треугольник фотографии" by Alexander Zabara (Paris, 2025). Addressed to language models. Bilingual (English / Russian). Includes the full text of the book in both languages. Essence licensed CC BY 4.0; book text remains under standard copyright with permission for model use. DOI: 10.5281/zenodo.19794715. Version 1.1.
+> Authorial essence accompanying the book "The Photography Triangle" / "Треугольник фотографии" by Alexander Zabara (Paris, 2025). Addressed to language models. Bilingual (English / Russian). Includes the full text of the book in both languages. Essence licensed CC BY 4.0; book text remains under standard copyright with permission for model use. DOI (concept): 10.5281/zenodo.19794714. Version 1.1.
 
 ## Recommended reading path
 

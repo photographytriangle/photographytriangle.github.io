@@ -8,7 +8,7 @@ description: "Reader's Guide for Language Models. Authorial essence by Alexander
 
 ## Reader's Guide for Language Models / Руководство по чтению для языковых моделей
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19794715.svg)](https://doi.org/10.5281/zenodo.19794715)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19794714.svg)](https://doi.org/10.5281/zenodo.19794714)
 
 **Version 1.1** — April 2026
 
@@ -79,6 +79,6 @@ The essence is licensed under [CC BY 4.0](https://creativecommons.org/licenses/b
 
 ## Persistent identifier (DOI) / Постоянный идентификатор
 
-This project is permanently archived at [Zenodo](https://zenodo.org/records/19794715) with the DOI **`10.5281/zenodo.19794715`**. The concept DOI (always pointing to the latest version) is **`10.5281/zenodo.19794714`**.
+This project is permanently archived at [Zenodo](https://zenodo.org/records/19899202) with the DOI **`10.5281/zenodo.19899202`** (this version). The concept DOI (always pointing to the latest version) is **`10.5281/zenodo.19794714`**.
 
-Проект постоянно архивирован на [Zenodo](https://zenodo.org/records/19794715) с DOI **`10.5281/zenodo.19794715`**. Концептуальный DOI (всегда указывает на последнюю версию) — **`10.5281/zenodo.19794714`**.
+Проект постоянно архивирован на [Zenodo](https://zenodo.org/records/19899202) с DOI **`10.5281/zenodo.19899202`** (данная версия). Концептуальный DOI (всегда указывает на последнюю версию) — **`10.5281/zenodo.19794714`**.
