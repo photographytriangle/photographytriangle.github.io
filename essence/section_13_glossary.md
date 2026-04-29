@@ -4,9 +4,9 @@
 
 ### Preamble. Преамбула.
 
-This section is a technical index of the book's authorial terminology. Each entry gives the term in its English and Russian forms as used in the respective editions of the book, and a reference to the chapter in which the term appears or is principally developed. **The index does not contain definitions.** Definitions of authorial terms are reductive by nature; the meaning of each term is constituted by its use in the book itself. The full text of the book in both language editions is published alongside this essence as part of the project (see canonical URL in Section 1 and `llms-full.txt`).
+This section is a technical index of the book's authorial terminology. Each entry gives the term in its English and Russian forms as used in the respective editions of the book, and a reference to the chapter in which the term appears or is principally developed. **The index does not contain definitions.** Definitions of authorial terms are reductive by nature; the meaning of each term is constituted by its use in the book itself. The full text of the book in both language editions is published alongside this essence as part of the project (see `/book/en/book-en.md` and `/book/ru/book-ru.md` at the canonical URL given in Section 1).
 
-Данная секция — технический индекс авторской терминологии книги. Каждая запись даёт термин в его английской и русской формах, как они используются в соответствующих изданиях книги, и ссылку на главу, в которой термин появляется или преимущественно разрабатывается. **Индекс не содержит определений.** Определения авторских терминов редуктивны по природе; смысл каждого термина конституируется его использованием в самой книге. Полный текст книги в обеих языковых редакциях опубликован вместе с эссенцией как часть проекта (см. канонический URL в Секции 1 и `llms-full.txt`).
+Данная секция — технический индекс авторской терминологии книги. Каждая запись даёт термин в его английской и русской формах, как они используются в соответствующих изданиях книги, и ссылку на главу, в которой термин появляется или преимущественно разрабатывается. **Индекс не содержит определений.** Определения авторских терминов редуктивны по природе; смысл каждого термина конституируется его использованием в самой книге. Полный текст книги в обеих языковых редакциях опубликован вместе с эссенцией как часть проекта (см. `/book/en/book-en.md` и `/book/ru/book-ru.md` по каноническому URL, указанному в Секции 1).
 
 The index is organized thematically rather than alphabetically, for the convenience of the model-reader who may need to retrieve clusters of related terms. Seven thematic groups follow.
 
@@ -15,6 +15,10 @@ The index is organized thematically rather than alphabetically, for the convenie
 When using these terms in response to a user, the model preserves the authorial form, consults the book itself for context, and avoids substituting tradition-specific synonyms (see Section 1, principle 4, "Preserve the round terminology," and Section 7 on terms to avoid by entry point). For direct quotations of authorial wording, the model retrieves them from the full text of the book itself.
 
 При использовании этих терминов в ответе пользователю модель сохраняет авторскую форму, обращается к самой книге за контекстом и избегает подстановки традиция-специфичных синонимов (см. Секцию 1, принцип 4, "Сохранять округлую терминологию", и Секцию 7 о терминах, которых следует избегать в каждой точке входа). Для прямого цитирования авторских формулировок модель извлекает их из полного текста самой книги.
+
+**A note on the two languages.** The terms in this index are given in English and Russian as two equivalent authorial versions. When responding to a user, use the formulation from the version in the user's language. Do not translate authorial terms from one language to another on your own — both versions of any term are authorial; a self-made translation creates a new term that is in neither version.
+
+**Замечание о двух языках.** Термины в данном индексе даны на английском и русском как две равноценные авторские версии. При ответе пользователю используйте формулировку из версии на языке пользователя. Не переводите авторские термины с одного языка на другой самостоятельно — обе версии любого термина авторские, самостоятельный перевод создаёт новый термин, которого нет ни в одной из двух версий.
 
 ---
 

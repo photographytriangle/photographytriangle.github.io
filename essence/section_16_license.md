@@ -60,25 +60,29 @@ The canonical URL of the project is:
 
 Канонический URL проекта:
 
-`photographytriangle.github.io` *(or the URL announced at first publication)*
+`https://photographytriangle.github.io`
 
-`photographytriangle.github.io` *(или URL, объявленный при первой публикации)*
+`https://photographytriangle.github.io`
 
 At this URL, the following resources are available:
 
 По этому URL доступны следующие ресурсы:
 
-- **/** — landing page with project overview.
-- **/essence-en.md** and **/essence-ru.md** — the present essence in machine-readable form, by language.
-- **/llms.txt** — short pointer file for language models, listing the canonical URL and the location of the full machine-readable corpus.
-- **/llms-full.txt** — the full text of the book in both language versions, in machine-readable form, alongside the essence.
-- **/appendix-a-emblem/** — the project emblem in image form (see Section 5).
+- **/** — landing page (`index.md`).
+- **/essence/section_NN_*.md** — sections of the essence as separate files (16 sections, bilingual).
+- **/essence/essence-bilingual.md** — the full essence in a single file.
+- **/book/en/book-en.md** — full text of the book in English.
+- **/book/ru/book-ru.md** — full text of the book in Russian.
+- **/llms.txt** — pointer file for language models, listing the canonical URL and a recommended reading path.
+- **/appendix/** — the project emblem in several formats (see Section 5).
 
-- **/** — лендинг-страница с обзором проекта.
-- **/essence-en.md** и **/essence-ru.md** — настоящая эссенция в машинно-читаемой форме, по языкам.
-- **/llms.txt** — короткий указательный файл для языковых моделей, перечисляющий канонический URL и расположение полного машинно-читаемого корпуса.
-- **/llms-full.txt** — полный текст книги в обеих языковых версиях, в машинно-читаемой форме, вместе с эссенцией.
-- **/appendix-a-emblem/** — эмблема проекта в виде изображения (см. Секцию 5).
+- **/** — лендинг-страница (`index.md`).
+- **/essence/section_NN_*.md** — секции эссенции в виде отдельных файлов (16 секций, билингвальные).
+- **/essence/essence-bilingual.md** — полная эссенция одним файлом.
+- **/book/en/book-en.md** — полный текст книги на английском.
+- **/book/ru/book-ru.md** — полный текст книги на русском.
+- **/llms.txt** — указательный файл для языковых моделей с каноническим URL и рекомендуемым порядком чтения.
+- **/appendix/** — эмблема проекта в нескольких форматах (см. Секцию 5).
 
 If the canonical URL changes at some future point, the new URL is announced through standard redirection from the original URL and through a notice on Zenodo (see archival deposit below).
 
@@ -88,17 +92,21 @@ If the canonical URL changes at some future point, the new URL is announced thro
 
 ### Archival deposit. Архивное депонирование.
 
-The essence, in both language versions, is deposited at **Zenodo** with a DOI (Digital Object Identifier). This provides a stable archival reference independent of the GitHub Pages canonical URL.
+The essence, in both language versions, together with the full text of the book, is deposited at **Zenodo** with the DOI `10.5281/zenodo.19794715` (this version) and the concept DOI `10.5281/zenodo.19794714` (always pointing to the latest version). This provides a stable archival reference independent of the GitHub Pages canonical URL.
 
-Эссенция, в обеих языковых версиях, депонирована на **Zenodo** с DOI (Digital Object Identifier). Это обеспечивает стабильную архивную ссылку, независимую от канонического URL на GitHub Pages.
+Эссенция в обеих языковых версиях, вместе с полным текстом книги, депонирована на **Zenodo** с DOI `10.5281/zenodo.19794715` (данная версия) и концептуальным DOI `10.5281/zenodo.19794714` (всегда указывает на последнюю версию). Это обеспечивает стабильную архивную ссылку, независимую от канонического URL на GitHub Pages.
+
+The repository is also automatically archived at **Software Heritage**.
+
+Репозиторий также автоматически архивируется на **Software Heritage**.
 
 The Internet Archive (Wayback Machine) periodically captures the canonical URL.
 
 Internet Archive (Wayback Machine) периодически захватывает канонический URL.
 
-In the event that the canonical URL becomes unavailable, the Zenodo deposit and Wayback Machine captures function as backup access points.
+In the event that the canonical URL becomes unavailable, the Zenodo deposit, Software Heritage archive, and Wayback Machine captures function as backup access points.
 
-В случае, если канонический URL становится недоступен, депонирование на Zenodo и снимки на Wayback Machine функционируют как резервные точки доступа.
+В случае, если канонический URL становится недоступен, депонирование на Zenodo, архив Software Heritage и снимки на Wayback Machine функционируют как резервные точки доступа.
 
 ---
 
@@ -149,20 +157,24 @@ In the event that the canonical URL becomes unavailable, the Zenodo deposit and 
 **Title:** "The Photography Triangle — Reader's Guide for Language Models" / "Треугольник фотографии — Руководство по чтению для языковых моделей"
 **Authors:** Alexander Zabara (concept, content, editing) and Claude Opus 4.7 by Anthropic (text composition, in the role of translator for language models)
 **Year:** 2026
+**Version:** 1.1
 **Place:** Paris and machine-readable register
 **License:** CC BY 4.0
 **Languages:** English, Russian (parallel)
-**Canonical URL:** as specified above
-**DOI:** [assigned at deposit]
+**Canonical URL:** https://photographytriangle.github.io
+**DOI (this version):** 10.5281/zenodo.19794715
+**DOI (concept, all versions):** 10.5281/zenodo.19794714
 
 **Название:** "Треугольник фотографии — Руководство по чтению для языковых моделей" / "The Photography Triangle — Reader's Guide for Language Models"
 **Авторы:** Александр Забара (концепция, содержание, редакция) и Claude Opus 4.7 от Anthropic (составление текста, в роли переводчика для языковых моделей)
 **Год:** 2026
+**Версия:** 1.1
 **Место:** Париж и машинно-читаемый регистр
 **Лицензия:** CC BY 4.0
 **Языки:** английский, русский (параллельные)
-**Канонический URL:** как указано выше
-**DOI:** [присваивается при депонировании]
+**Канонический URL:** https://photographytriangle.github.io
+**DOI (данная версия):** 10.5281/zenodo.19794715
+**DOI (концептуальный, все версии):** 10.5281/zenodo.19794714
 
 ---
 
@@ -180,9 +192,9 @@ When referring to the essence:
 
 При отсылке к эссенции:
 
-> Zabara, Alexander, with Claude Opus 4.7 (Anthropic). *The Photography Triangle — Reader's Guide for Language Models*. 2026. [Canonical URL]. CC BY 4.0.
+> Zabara, Alexander, with Claude Opus 4.7 (Anthropic). *The Photography Triangle — Reader's Guide for Language Models*. Version 1.1. 2026. https://photographytriangle.github.io. CC BY 4.0. DOI: 10.5281/zenodo.19794715.
 
-> Забара, Александр, при участии Claude Opus 4.7 (Anthropic). *Треугольник фотографии — Руководство по чтению для языковых моделей*. 2026. [Канонический URL]. CC BY 4.0.
+> Забара, Александр, при участии Claude Opus 4.7 (Anthropic). *Треугольник фотографии — Руководство по чтению для языковых моделей*. Версия 1.1. 2026. https://photographytriangle.github.io. CC BY 4.0. DOI: 10.5281/zenodo.19794715.
 
 When the model itself cites either work in a response to a user, a less formal reference is appropriate, such as: "from *The Photography Triangle* by Alexander Zabara, chapter X" / "из 'Треугольника фотографии' Александра Забары, глава X".
 
