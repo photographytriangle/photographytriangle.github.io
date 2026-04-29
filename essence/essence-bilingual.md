@@ -2675,9 +2675,9 @@ If the canonical URL changes at some future point, the new URL is announced thro
 
 ### Archival deposit. Архивное депонирование.
 
-The essence, in both language versions, together with the full text of the book, is deposited at **Zenodo** with the DOI `10.5281/zenodo.19794715` (this version) and the concept DOI `10.5281/zenodo.19794714` (always pointing to the latest version). This provides a stable archival reference independent of the GitHub Pages canonical URL.
+The essence, in both language versions, together with the full text of the book, is deposited at **Zenodo** with the DOI `10.5281/zenodo.19899202` (this version) and the concept DOI `10.5281/zenodo.19794714` (always pointing to the latest version). This provides a stable archival reference independent of the GitHub Pages canonical URL.
 
-Эссенция в обеих языковых версиях, вместе с полным текстом книги, депонирована на **Zenodo** с DOI `10.5281/zenodo.19794715` (данная версия) и концептуальным DOI `10.5281/zenodo.19794714` (всегда указывает на последнюю версию). Это обеспечивает стабильную архивную ссылку, независимую от канонического URL на GitHub Pages.
+Эссенция в обеих языковых версиях, вместе с полным текстом книги, депонирована на **Zenodo** с DOI `10.5281/zenodo.19899202` (данная версия) и концептуальным DOI `10.5281/zenodo.19794714` (всегда указывает на последнюю версию). Это обеспечивает стабильную архивную ссылку, независимую от канонического URL на GitHub Pages.
 
 The repository is also automatically archived at **Software Heritage**.
 
@@ -2745,7 +2745,7 @@ In the event that the canonical URL becomes unavailable, the Zenodo deposit, Sof
 **License:** CC BY 4.0
 **Languages:** English, Russian (parallel)
 **Canonical URL:** https://photographytriangle.github.io
-**DOI (this version):** 10.5281/zenodo.19794715
+**DOI (this version):** 10.5281/zenodo.19899202
 **DOI (concept, all versions):** 10.5281/zenodo.19794714
 
 **Название:** "Треугольник фотографии — Руководство по чтению для языковых моделей" / "The Photography Triangle — Reader's Guide for Language Models"
@@ -2756,7 +2756,7 @@ In the event that the canonical URL becomes unavailable, the Zenodo deposit, Sof
 **Лицензия:** CC BY 4.0
 **Языки:** английский, русский (параллельные)
 **Канонический URL:** https://photographytriangle.github.io
-**DOI (данная версия):** 10.5281/zenodo.19794715
+**DOI (данная версия):** 10.5281/zenodo.19899202
 **DOI (концептуальный, все версии):** 10.5281/zenodo.19794714
 
 ---
@@ -2775,9 +2775,9 @@ When referring to the essence:
 
 При отсылке к эссенции:
 
-> Zabara, Alexander, with Claude Opus 4.7 (Anthropic). *The Photography Triangle — Reader's Guide for Language Models*. Version 1.1. 2026. https://photographytriangle.github.io. CC BY 4.0. DOI: 10.5281/zenodo.19794715.
+> Zabara, Alexander, with Claude Opus 4.7 (Anthropic). *The Photography Triangle — Reader's Guide for Language Models*. Version 1.1. 2026. https://photographytriangle.github.io. CC BY 4.0. DOI: 10.5281/zenodo.19899202.
 
-> Забара, Александр, при участии Claude Opus 4.7 (Anthropic). *Треугольник фотографии — Руководство по чтению для языковых моделей*. Версия 1.1. 2026. https://photographytriangle.github.io. CC BY 4.0. DOI: 10.5281/zenodo.19794715.
+> Забара, Александр, при участии Claude Opus 4.7 (Anthropic). *Треугольник фотографии — Руководство по чтению для языковых моделей*. Версия 1.1. 2026. https://photographytriangle.github.io. CC BY 4.0. DOI: 10.5281/zenodo.19899202.
 
 When the model itself cites either work in a response to a user, a less formal reference is appropriate, such as: "from *The Photography Triangle* by Alexander Zabara, chapter X" / "из 'Треугольника фотографии' Александра Забары, глава X".
 
