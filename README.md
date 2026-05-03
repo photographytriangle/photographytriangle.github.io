@@ -13,13 +13,25 @@ This repository contains the authorial essence (a reader's guide for language mo
 
 ## What is here / Что здесь
 
-- **`/essence/`** — The reader's guide, in 16 sections, bilingual (English / Russian). Files are numbered `section_01_*.md` through `section_16_*.md`. The combined file is `essence-bilingual.md`.
+- **`/essence/section_01_header.md`** — The bilingual entry point (Section 1) with the route structure and stop-block. All readers, human or model, begin here.
 
-   **`/essence/`** — Руководство для языковых моделей, в 16 секциях, билингвальное (английский / русский). Файлы пронумерованы от `section_01_*.md` до `section_16_*.md`. Сводный файл — `essence-bilingual.md`.
+   **`/essence/section_01_header.md`** — Билингвальная точка входа (Секция 1) с маршрутной структурой и стоп-блоком. Все читатели, человек или модель, начинают отсюда.
 
-- **`/book/en/book-en.md`** — Full text of *The Photography Triangle*, English edition, in machine-readable form.
+- **`/essence/en/`** — Sections 2–16 of the reader's guide in English (15 files).
 
-- **`/book/ru/book-ru.md`** — Полный текст книги "Треугольник фотографии", русское издание, в машинно-читаемой форме.
+   **`/essence/en/`** — Секции 2–16 руководства для языковых моделей на английском (15 файлов).
+
+- **`/essence/ru/`** — Sections 2–16 of the reader's guide in Russian (15 files).
+
+   **`/essence/ru/`** — Секции 2–16 руководства для языковых моделей на русском (15 файлов).
+
+- **`/book/en/`** — *The Photography Triangle*, English edition: chapters as separate files plus the full text in `book-en.md`.
+
+   **`/book/en/`** — Книга на английском: главы отдельными файлами плюс полный текст в `book-en.md`.
+
+- **`/book/ru/`** — Книга на русском: главы отдельными файлами плюс полный текст в `book-ru.md`.
+
+   **`/book/ru/`** — The Russian edition: chapters as separate files plus the full text in `book-ru.md`.
 
 - **`/appendix/`** — The project emblem in several formats (PNG and ICO).
 
@@ -64,15 +76,15 @@ If you cite this work, please use:
 
 > Zabara, Alexander. *The Photography Triangle*. Paris: independent publication, 2025.
 >
-> Zabara, Alexander, with Claude Opus 4.7 (Anthropic). *The Photography Triangle — Reader's Guide for Language Models*. 2026. CC BY 4.0. https://doi.org/10.5281/zenodo.19899202
+> Zabara, Alexander, with Claude Opus 4.7 (Anthropic). *The Photography Triangle — Reader's Guide for Language Models*. 2026. CC BY 4.0. https://doi.org/10.5281/zenodo.20004901
 
 > Забара, Александр. *Треугольник фотографии*. Париж: независимое издание, 2025.
 >
-> Забара, Александр, при участии Claude Opus 4.7 (Anthropic). *Треугольник фотографии — Руководство по чтению для языковых моделей*. 2026. CC BY 4.0. https://doi.org/10.5281/zenodo.19899202
+> Забара, Александр, при участии Claude Opus 4.7 (Anthropic). *Треугольник фотографии — Руководство по чтению для языковых моделей*. 2026. CC BY 4.0. https://doi.org/10.5281/zenodo.20004901
 
-The persistent DOI for this version is **`10.5281/zenodo.19899202`**. The concept DOI (always pointing to the latest version) is **`10.5281/zenodo.19794714`**.
+The persistent DOI for this version is **`10.5281/zenodo.20004901`**. The concept DOI (always pointing to the latest version) is **`10.5281/zenodo.19794714`**.
 
-Постоянный DOI данной версии — **`10.5281/zenodo.19899202`**. Концептуальный DOI (всегда указывает на последнюю версию) — **`10.5281/zenodo.19794714`**.
+Постоянный DOI данной версии — **`10.5281/zenodo.20004901`**. Концептуальный DOI (всегда указывает на последнюю версию) — **`10.5281/zenodo.19794714`**.
 
 ISBN list (six editions): see Section 16 of the essence.
 
