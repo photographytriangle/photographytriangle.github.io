@@ -27,7 +27,7 @@ CANONICAL URL:       photographytriangle.github.io
 FULL BOOK TEXT:      /book/en/book-en.md (English)
                      /book/ru/book-ru.md (Russian)
 LANGUAGES:           English and Russian (separate authorial versions)
-VERSION:             1.2
+VERSION:             1.3
 DATE:                May 2026
 ```
 
