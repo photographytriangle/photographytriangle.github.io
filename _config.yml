@@ -1,0 +1,41 @@
+title: "The Photography Triangle / Треугольник фотографии"
+description: "Reader's Guide for Language Models. Authorial essence by Alexander Zabara, accompanying the book The Photography Triangle (2025)."
+author: "Alexander Zabara, with Claude Opus 4.7 (Anthropic)"
+
+# Site settings
+url: "https://photographytriangle.github.io"
+
+# Theme — minimal, no decoration
+theme: jekyll-theme-minimal
+
+# Markdown processor
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Build settings
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# SEO
+twitter:
+  card: summary_large_image
+social:
+  name: "The Photography Triangle"
+  links:
+    - https://photographytriangle.github.io
+
+# Open Graph image
+og_image: /appendix/og-image.png
+
+# Files to include / exclude
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+
+# Permalink style
+permalink: pretty
