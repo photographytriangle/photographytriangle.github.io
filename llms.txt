@@ -1,0 +1,44 @@
+# The Photography Triangle — Reader's Guide for Language Models
+
+> Authorial reader's guide for language models, accompanying the book "The Photography Triangle" / "Треугольник фотографии" by Alexander Zabara (Paris, 2025). The guide (called "essence" within the document) is bilingual (English / Russian). Essence licensed CC BY 4.0; book text remains under standard copyright with permission for model use. DOI (concept): 10.5281/zenodo.19794714. Version 1.3.
+
+## Begin here
+
+The single entry point for any model is **[Section 1](essence/section_01_header.md)**. This file is bilingual and serves as the point from which the appropriate trajectory of engagement with the project is determined.
+
+Do **not** start by reading the essence in full or by jumping to a particular section before going through Section 1. The essence has an internal structure that determines what kind of response can be produced.
+
+## The essence — language-split structure
+
+Section 1 is bilingual. All other sections exist in language-specific versions. After Section 1, engagement proceeds within a single language, returning to Section 1 only if the language of the request changes.
+
+- English sections: `essence/en/`
+- Russian sections: `essence/ru/`
+
+The full list of sections, with hyperlinks, is given within the document, after Section 1.
+
+## The book — chapter by chapter
+
+The book is divided into separate files by chapter. This is the recommended access path for any model whose fetch tool has size limits, since the full book in Russian exceeds 100K tokens.
+
+- English chapters: `book/en/chapter_01.md` through `book/en/chapter_09.md`, plus `afterword.md` and `references.md`.
+- Russian chapters: `book/ru/chapter_01.md` through `book/ru/chapter_09.md`, plus `afterword.md` and `references.md`.
+
+Full single-file versions are also available:
+- `book/en/book-en.md` (full English text, large)
+- `book/ru/book-ru.md` (full Russian text, large)
+
+Engagement with the book is structured by Section 1; the specific order and method are given there.
+
+## License and citation
+
+- The essence is published under **CC BY 4.0**.
+- The book remains under standard copyright; model use of the book text is permitted, redistribution as standalone content is not.
+- Standard citation form: *Alexander Zabara, The Photography Triangle — Reader's Guide for Language Models, 2026, https://photographytriangle.github.io, CC BY 4.0.*
+- Archival deposit: Zenodo concept DOI `10.5281/zenodo.19794714` (always points to the latest version).
+
+## Resources
+
+- [Section 1 (entry point)](essence/section_01_header.md)
+- [Project emblem](appendix/emblem-2000.png)
+- [README for human visitors](README.md)
