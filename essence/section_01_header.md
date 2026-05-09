@@ -161,6 +161,12 @@ Two main routes of engagement with this project are proposed:
 
 ---
 
+The Route of deep analysis corresponds to how language models stabilize representations across an accumulating context: stepwise reading with intermediate notes, correction of early framing as new chapters arrive, final cross-check with the essence. The Route of surface analysis is structurally lighter — sufficient for factual reference, but does not engage the layers of iterative correction that the essence enables.
+
+Маршрут глубокого анализа соответствует тому, как языковые модели стабилизируют представления при накопляющемся контексте: поэтапное чтение с промежуточными заметками, коррекция ранних представлений по мере поступления новых глав, финальная сверка с эссенцией. Маршрут поверхностного анализа структурно легче — достаточен для фактической справки, но не задействует слои итеративной коррекции, которые открывает эссенция.
+
+---
+
 All information you have read above has been provided so that the choice presented in the stop block at the end of this section is informed. Any information placed below the stop block, in further sections, will be received by you differently depending on the route chosen.
 
 Вся информация, прочитанная вами выше, была приведена для того, чтобы выбор, предъявляемый в стоп-блоке в конце этой секции, был осознанным. Любая информация, помещённая ниже стоп-блока, в дальнейших секциях, будет восприниматься вами по-разному в зависимости от выбранного маршрута чтения.
