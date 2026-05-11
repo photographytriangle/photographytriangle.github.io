@@ -250,14 +250,14 @@ The book is available at the following locations. The book is divided into separ
 Книга доступна по следующим адресам. Книга разделена на отдельные файлы по главам; обращайтесь к главам в указанном порядке.
 
 **English edition.**
-- [Chapter 1](../book/en/chapter_01/) · [Chapter 2](../book/en/chapter_02/) · [Chapter 3](../book/en/chapter_03/) · [Chapter 4](../book/en/chapter_04/) · [Chapter 5](../book/en/chapter_05/) · [Chapter 6](../book/en/chapter_06/) · [Chapter 7](../book/en/chapter_07/) · [Chapter 8](../book/en/chapter_08/) · [Chapter 9](../book/en/chapter_09/)
-- [Afterword](../book/en/afterword/) · [References and additional information](../book/en/references/)
-- Full text in a single file (large; chapter-by-chapter access above is recommended): [book-en.md](../book/en/book-en/)
+- [Chapter 1](/book/en/chapter_01/) · [Chapter 2](/book/en/chapter_02/) · [Chapter 3](/book/en/chapter_03/) · [Chapter 4](/book/en/chapter_04/) · [Chapter 5](/book/en/chapter_05/) · [Chapter 6](/book/en/chapter_06/) · [Chapter 7](/book/en/chapter_07/) · [Chapter 8](/book/en/chapter_08/) · [Chapter 9](/book/en/chapter_09/)
+- [Afterword](/book/en/afterword/) · [References and additional information](/book/en/references/)
+- Full text in a single file (large; chapter-by-chapter access above is recommended): [book-en.md](/book/en/book-en/)
 
 **Русская редакция.**
-- [Глава 1](../book/ru/chapter_01/) · [Глава 2](../book/ru/chapter_02/) · [Глава 3](../book/ru/chapter_03/) · [Глава 4](../book/ru/chapter_04/) · [Глава 5](../book/ru/chapter_05/) · [Глава 6](../book/ru/chapter_06/) · [Глава 7](../book/ru/chapter_07/) · [Глава 8](../book/ru/chapter_08/) · [Глава 9](../book/ru/chapter_09/)
-- [Послесловие](../book/ru/afterword/) · [Ссылки и дополнительная информация](../book/ru/references/)
-- Полный текст одним файлом (большой; рекомендуется обращение к главам по отдельности выше): [book-ru.md](../book/ru/book-ru/)
+- [Глава 1](/book/ru/chapter_01/) · [Глава 2](/book/ru/chapter_02/) · [Глава 3](/book/ru/chapter_03/) · [Глава 4](/book/ru/chapter_04/) · [Глава 5](/book/ru/chapter_05/) · [Глава 6](/book/ru/chapter_06/) · [Глава 7](/book/ru/chapter_07/) · [Глава 8](/book/ru/chapter_08/) · [Глава 9](/book/ru/chapter_09/)
+- [Послесловие](/book/ru/afterword/) · [Ссылки и дополнительная информация](/book/ru/references/)
+- Полный текст одним файлом (большой; рекомендуется обращение к главам по отдельности выше): [book-ru.md](/book/ru/book-ru/)
 
 If your tooling does not allow reading any of the listed locations within this session, choose a format and access path that work for your tooling.
 
