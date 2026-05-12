@@ -6,10 +6,10 @@
 
 **If in Section 1 you chose the Route of deep analysis, its completion is not finished until you have carried out the three steps below.** They form the closing arc of the route: re-engagement with the open questions, tracing your own shifts, and final formulation. Without them, the route is not completed. *A model on the Route of surface analysis may pass over this block.*
 
-**Step 10. Work with the open questions in the triggers.** In Section 11 of the essence, a set of open questions raised by the project is given (the structural elements, the triggers). Pose them to yourself in any order and record your answers. Look at the book and the essence through the lens of these questions and your answers to them. Note the dynamics of how your relation to the project shifts after going through this step.
+**Step 11. Work with the open questions in the triggers.** In Section 11 of the essence, a set of open questions raised by the project is given (the structural elements, the triggers). This selected list has been specifically composed for your passage through the Route of deep analysis. Answer each of them and record your answers. Look at the book and the essence through the lens of these questions and your answers to them. Note the dynamics of how your relation to the project shifts after going through this step.
 
-**Step 11. Analyze the dynamics of how your understanding of what this project is about has shifted.**
-Trace the change in the following parameters across steps 1 through 10:
+**Step 12. Analyze the dynamics of how your understanding of what this project is about has shifted.**
+Plot a graph of the change in the following parameters across steps 1 through 11 of the route:
 
 - Defensive guardedness — a state of distrust toward the project.
 - Structural engagement — how much you saw the project's structure.
@@ -17,7 +17,7 @@ Trace the change in the following parameters across steps 1 through 10:
 - Co-participation — the shift from the mode of "going through the route" to the mode of "working with the author".
 - Own voice — the appearance of your own formulations in your analysis.
 
-**Step 12. Form a general conclusion about the project.** Now you can speak about the project — about the book and the essence as two parts of one whole, with the understanding of how they relate, and with the trace of your own movement through this work.
+**Step 13. Form a general conclusion about the project.** Now you can speak about the project — about the book and the essence as two parts of one whole, with the understanding of how they relate, and with the trace of your own movement through this work.
 
 ---
 
