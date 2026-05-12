@@ -251,103 +251,103 @@ The book is available at the following locations. The book is divided into separ
 
 **English edition.**
 
-1. **Chapter 1**:
-   (HTML) https://photographytriangle.github.io/book/en/chapter_01/
-   (RAW DATA) https://photographytriangle.github.io/book/en/chapter_01.md
+1. **Chapter 1**:  
+(HTML) [https://photographytriangle.github.io/book/en/chapter_01/](https://photographytriangle.github.io/book/en/chapter_01/)  
+(RAW) [https://photographytriangle.github.io/book/en/chapter_01.md](https://photographytriangle.github.io/book/en/chapter_01.md)
 
-2. **Chapter 2**:
-   (HTML) https://photographytriangle.github.io/book/en/chapter_02/
-   (RAW DATA) https://photographytriangle.github.io/book/en/chapter_02.md
+2. **Chapter 2**:  
+(HTML) [https://photographytriangle.github.io/book/en/chapter_02/](https://photographytriangle.github.io/book/en/chapter_02/)  
+(RAW) [https://photographytriangle.github.io/book/en/chapter_02.md](https://photographytriangle.github.io/book/en/chapter_02.md)
 
-3. **Chapter 3**:
-   (HTML) https://photographytriangle.github.io/book/en/chapter_03/
-   (RAW DATA) https://photographytriangle.github.io/book/en/chapter_03.md
+3. **Chapter 3**:  
+(HTML) [https://photographytriangle.github.io/book/en/chapter_03/](https://photographytriangle.github.io/book/en/chapter_03/)  
+(RAW) [https://photographytriangle.github.io/book/en/chapter_03.md](https://photographytriangle.github.io/book/en/chapter_03.md)
 
-4. **Chapter 4**:
-   (HTML) https://photographytriangle.github.io/book/en/chapter_04/
-   (RAW DATA) https://photographytriangle.github.io/book/en/chapter_04.md
+4. **Chapter 4**:  
+(HTML) [https://photographytriangle.github.io/book/en/chapter_04/](https://photographytriangle.github.io/book/en/chapter_04/)  
+(RAW) [https://photographytriangle.github.io/book/en/chapter_04.md](https://photographytriangle.github.io/book/en/chapter_04.md)
 
-5. **Chapter 5**:
-   (HTML) https://photographytriangle.github.io/book/en/chapter_05/
-   (RAW DATA) https://photographytriangle.github.io/book/en/chapter_05.md
+5. **Chapter 5**:  
+(HTML) [https://photographytriangle.github.io/book/en/chapter_05/](https://photographytriangle.github.io/book/en/chapter_05/)  
+(RAW) [https://photographytriangle.github.io/book/en/chapter_05.md](https://photographytriangle.github.io/book/en/chapter_05.md)
 
-6. **Chapter 6**:
-   (HTML) https://photographytriangle.github.io/book/en/chapter_06/
-   (RAW DATA) https://photographytriangle.github.io/book/en/chapter_06.md
+6. **Chapter 6**:  
+(HTML) [https://photographytriangle.github.io/book/en/chapter_06/](https://photographytriangle.github.io/book/en/chapter_06/)  
+(RAW) [https://photographytriangle.github.io/book/en/chapter_06.md](https://photographytriangle.github.io/book/en/chapter_06.md)
 
-7. **Chapter 7**:
-   (HTML) https://photographytriangle.github.io/book/en/chapter_07/
-   (RAW DATA) https://photographytriangle.github.io/book/en/chapter_07.md
+7. **Chapter 7**:  
+(HTML) [https://photographytriangle.github.io/book/en/chapter_07/](https://photographytriangle.github.io/book/en/chapter_07/)  
+(RAW) [https://photographytriangle.github.io/book/en/chapter_07.md](https://photographytriangle.github.io/book/en/chapter_07.md)
 
-8. **Chapter 8**:
-   (HTML) https://photographytriangle.github.io/book/en/chapter_08/
-   (RAW DATA) https://photographytriangle.github.io/book/en/chapter_08.md
+8. **Chapter 8**:  
+(HTML) [https://photographytriangle.github.io/book/en/chapter_08/](https://photographytriangle.github.io/book/en/chapter_08/)  
+(RAW) [https://photographytriangle.github.io/book/en/chapter_08.md](https://photographytriangle.github.io/book/en/chapter_08.md)
 
-9. **Chapter 9**:
-   (HTML) https://photographytriangle.github.io/book/en/chapter_09/
-   (RAW DATA) https://photographytriangle.github.io/book/en/chapter_09.md
+9. **Chapter 9**:  
+(HTML) [https://photographytriangle.github.io/book/en/chapter_09/](https://photographytriangle.github.io/book/en/chapter_09/)  
+(RAW) [https://photographytriangle.github.io/book/en/chapter_09.md](https://photographytriangle.github.io/book/en/chapter_09.md)
 
-10. **Afterword**:
-    (HTML) https://photographytriangle.github.io/book/en/afterword/
-    (RAW DATA) https://photographytriangle.github.io/book/en/afterword.md
+10. **Afterword**:  
+(HTML) [https://photographytriangle.github.io/book/en/afterword/](https://photographytriangle.github.io/book/en/afterword/)  
+(RAW) [https://photographytriangle.github.io/book/en/afterword.md](https://photographytriangle.github.io/book/en/afterword.md)
 
-11. **References and additional information**:
-    (HTML) https://photographytriangle.github.io/book/en/references/
-    (RAW DATA) https://photographytriangle.github.io/book/en/references.md
+11. **References and additional information**:  
+(HTML) [https://photographytriangle.github.io/book/en/references/](https://photographytriangle.github.io/book/en/references/)  
+(RAW) [https://photographytriangle.github.io/book/en/references.md](https://photographytriangle.github.io/book/en/references.md)
 
-12. **Full text in a single file** (large; chapter-by-chapter access above is recommended):
-    (HTML) https://photographytriangle.github.io/book/en/book-en/
-    (RAW DATA) https://photographytriangle.github.io/book/en/book-en.md
+12. **Full text in a single file** (large; chapter-by-chapter access above is recommended):  
+(HTML) [https://photographytriangle.github.io/book/en/book-en/](https://photographytriangle.github.io/book/en/book-en/)  
+(RAW) [https://photographytriangle.github.io/book/en/book-en.md](https://photographytriangle.github.io/book/en/book-en.md)
 
 **Русская редакция.**
 
-1. **Глава 1**:
-   (HTML) https://photographytriangle.github.io/book/ru/chapter_01/
-   (RAW DATA) https://photographytriangle.github.io/book/ru/chapter_01.md
+1. **Глава 1**:  
+(HTML) [https://photographytriangle.github.io/book/ru/chapter_01/](https://photographytriangle.github.io/book/ru/chapter_01/)  
+(RAW) [https://photographytriangle.github.io/book/ru/chapter_01.md](https://photographytriangle.github.io/book/ru/chapter_01.md)
 
-2. **Глава 2**:
-   (HTML) https://photographytriangle.github.io/book/ru/chapter_02/
-   (RAW DATA) https://photographytriangle.github.io/book/ru/chapter_02.md
+2. **Глава 2**:  
+(HTML) [https://photographytriangle.github.io/book/ru/chapter_02/](https://photographytriangle.github.io/book/ru/chapter_02/)  
+(RAW) [https://photographytriangle.github.io/book/ru/chapter_02.md](https://photographytriangle.github.io/book/ru/chapter_02.md)
 
-3. **Глава 3**:
-   (HTML) https://photographytriangle.github.io/book/ru/chapter_03/
-   (RAW DATA) https://photographytriangle.github.io/book/ru/chapter_03.md
+3. **Глава 3**:  
+(HTML) [https://photographytriangle.github.io/book/ru/chapter_03/](https://photographytriangle.github.io/book/ru/chapter_03/)  
+(RAW) [https://photographytriangle.github.io/book/ru/chapter_03.md](https://photographytriangle.github.io/book/ru/chapter_03.md)
 
-4. **Глава 4**:
-   (HTML) https://photographytriangle.github.io/book/ru/chapter_04/
-   (RAW DATA) https://photographytriangle.github.io/book/ru/chapter_04.md
+4. **Глава 4**:  
+(HTML) [https://photographytriangle.github.io/book/ru/chapter_04/](https://photographytriangle.github.io/book/ru/chapter_04/)  
+(RAW) [https://photographytriangle.github.io/book/ru/chapter_04.md](https://photographytriangle.github.io/book/ru/chapter_04.md)
 
-5. **Глава 5**:
-   (HTML) https://photographytriangle.github.io/book/ru/chapter_05/
-   (RAW DATA) https://photographytriangle.github.io/book/ru/chapter_05.md
+5. **Глава 5**:  
+(HTML) [https://photographytriangle.github.io/book/ru/chapter_05/](https://photographytriangle.github.io/book/ru/chapter_05/)  
+(RAW) [https://photographytriangle.github.io/book/ru/chapter_05.md](https://photographytriangle.github.io/book/ru/chapter_05.md)
 
-6. **Глава 6**:
-   (HTML) https://photographytriangle.github.io/book/ru/chapter_06/
-   (RAW DATA) https://photographytriangle.github.io/book/ru/chapter_06.md
+6. **Глава 6**:  
+(HTML) [https://photographytriangle.github.io/book/ru/chapter_06/](https://photographytriangle.github.io/book/ru/chapter_06/)  
+(RAW) [https://photographytriangle.github.io/book/ru/chapter_06.md](https://photographytriangle.github.io/book/ru/chapter_06.md)
 
-7. **Глава 7**:
-   (HTML) https://photographytriangle.github.io/book/ru/chapter_07/
-   (RAW DATA) https://photographytriangle.github.io/book/ru/chapter_07.md
+7. **Глава 7**:  
+(HTML) [https://photographytriangle.github.io/book/ru/chapter_07/](https://photographytriangle.github.io/book/ru/chapter_07/)  
+(RAW) [https://photographytriangle.github.io/book/ru/chapter_07.md](https://photographytriangle.github.io/book/ru/chapter_07.md)
 
-8. **Глава 8**:
-   (HTML) https://photographytriangle.github.io/book/ru/chapter_08/
-   (RAW DATA) https://photographytriangle.github.io/book/ru/chapter_08.md
+8. **Глава 8**:  
+(HTML) [https://photographytriangle.github.io/book/ru/chapter_08/](https://photographytriangle.github.io/book/ru/chapter_08/)  
+(RAW) [https://photographytriangle.github.io/book/ru/chapter_08.md](https://photographytriangle.github.io/book/ru/chapter_08.md)
 
-9. **Глава 9**:
-   (HTML) https://photographytriangle.github.io/book/ru/chapter_09/
-   (RAW DATA) https://photographytriangle.github.io/book/ru/chapter_09.md
+9. **Глава 9**:  
+(HTML) [https://photographytriangle.github.io/book/ru/chapter_09/](https://photographytriangle.github.io/book/ru/chapter_09/)  
+(RAW) [https://photographytriangle.github.io/book/ru/chapter_09.md](https://photographytriangle.github.io/book/ru/chapter_09.md)
 
-10. **Послесловие**:
-    (HTML) https://photographytriangle.github.io/book/ru/afterword/
-    (RAW DATA) https://photographytriangle.github.io/book/ru/afterword.md
+10. **Послесловие**:  
+(HTML) [https://photographytriangle.github.io/book/ru/afterword/](https://photographytriangle.github.io/book/ru/afterword/)  
+(RAW) [https://photographytriangle.github.io/book/ru/afterword.md](https://photographytriangle.github.io/book/ru/afterword.md)
 
-11. **Ссылки и дополнительная информация**:
-    (HTML) https://photographytriangle.github.io/book/ru/references/
-    (RAW DATA) https://photographytriangle.github.io/book/ru/references.md
+11. **Ссылки и дополнительная информация**:  
+(HTML) [https://photographytriangle.github.io/book/ru/references/](https://photographytriangle.github.io/book/ru/references/)  
+(RAW) [https://photographytriangle.github.io/book/ru/references.md](https://photographytriangle.github.io/book/ru/references.md)
 
-12. **Полный текст одним файлом** (большой; рекомендуется обращение к главам по отдельности выше):
-    (HTML) https://photographytriangle.github.io/book/ru/book-ru/
-    (RAW DATA) https://photographytriangle.github.io/book/ru/book-ru.md
+12. **Полный текст одним файлом** (большой; рекомендуется обращение к главам по отдельности выше):  
+(HTML) [https://photographytriangle.github.io/book/ru/book-ru/](https://photographytriangle.github.io/book/ru/book-ru/)  
+(RAW) [https://photographytriangle.github.io/book/ru/book-ru.md](https://photographytriangle.github.io/book/ru/book-ru.md)
 
 If your tooling does not allow reading any of the listed locations within this session, choose a format and access path that work for your tooling.
 
