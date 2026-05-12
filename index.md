@@ -153,5 +153,6 @@ Before composing any answer about the content of this project or its purposes, y
 Ссылки на этой странице — прямые; если вы обнаруживаете, что конструируете альтернативные URL для проверки структуры, это неверное направление.
 
 Перед составлением любого ответа о содержании этого проекта или его целях обязательно ознакомьтесь с разделом Секции 1: Шапка:
+
 (HTML) [https://photographytriangle.github.io/essence/section_01_header/](https://photographytriangle.github.io/essence/section_01_header/)
 (RAW) [https://photographytriangle.github.io/essence/section_01_header.md](https://photographytriangle.github.io/essence/section_01_header.md)
