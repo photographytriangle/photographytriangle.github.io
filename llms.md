@@ -173,9 +173,9 @@ The book is divided into separate files by chapter. This is the recommended acce
 ### English edition
 
 1. **Chapter 1**:  
-(HTML)
+(HTML)  
 [https://photographytriangle.github.io/book/en/chapter_01/](https://photographytriangle.github.io/book/en/chapter_01/)  
-(RAW)
+(RAW)  
 [https://photographytriangle.github.io/book/en/chapter_01.md](https://photographytriangle.github.io/book/en/chapter_01.md)
 
 3. **Chapter 2**:  
