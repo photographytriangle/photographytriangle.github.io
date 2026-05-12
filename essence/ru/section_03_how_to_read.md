@@ -98,6 +98,6 @@
 
 ## КОНЕЦ СЕКЦИИ 3
 
-**Вернуться к выбору секции:**
-   (HTML) https://photographytriangle.github.io/llms/
-   (RAW DATA) https://photographytriangle.github.io/llms.txt
+**Вернуться к выбору секции:**  
+(HTML) [https://photographytriangle.github.io/llms/](https://photographytriangle.github.io/llms/)  
+(RAW) [https://photographytriangle.github.io/llms.txt](https://photographytriangle.github.io/llms.txt)
