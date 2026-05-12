@@ -10,7 +10,7 @@ description: "Reader's Guide for Language Models. Authorial essence by Alexander
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19794714.svg)](https://doi.org/10.5281/zenodo.19794714)
 
-**Version 1.4** — May 2026
+**Version 1.4.1** — May 2026
 
 This site is the canonical home of an authorial essence (a reader's guide for language models) accompanying the book *The Photography Triangle* / "Треугольник фотографии" by Alexander Zabara (Paris, 2025), together with the full text of the book in both English and Russian.
 
