@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://photographytriangle.github.io/sitemap.xml
