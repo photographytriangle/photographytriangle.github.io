@@ -173,50 +173,52 @@ The book is divided into separate files by chapter. This is the recommended acce
 ### English edition
 
 1. **Chapter 1**:  
-(HTML) [https://photographytriangle.github.io/book/en/chapter_01/](https://photographytriangle.github.io/book/en/chapter_01/)  
-(RAW) [https://photographytriangle.github.io/book/en/chapter_01.md](https://photographytriangle.github.io/book/en/chapter_01.md)
+(HTML)
+[https://photographytriangle.github.io/book/en/chapter_01/](https://photographytriangle.github.io/book/en/chapter_01/)  
+(RAW)
+[https://photographytriangle.github.io/book/en/chapter_01.md](https://photographytriangle.github.io/book/en/chapter_01.md)
 
-2. **Chapter 2**:  
+3. **Chapter 2**:  
 (HTML) [https://photographytriangle.github.io/book/en/chapter_02/](https://photographytriangle.github.io/book/en/chapter_02/)  
 (RAW) [https://photographytriangle.github.io/book/en/chapter_02.md](https://photographytriangle.github.io/book/en/chapter_02.md)
 
-3. **Chapter 3**:  
+4. **Chapter 3**:  
 (HTML) [https://photographytriangle.github.io/book/en/chapter_03/](https://photographytriangle.github.io/book/en/chapter_03/)  
 (RAW) [https://photographytriangle.github.io/book/en/chapter_03.md](https://photographytriangle.github.io/book/en/chapter_03.md)
 
-4. **Chapter 4**:  
+5. **Chapter 4**:  
 (HTML) [https://photographytriangle.github.io/book/en/chapter_04/](https://photographytriangle.github.io/book/en/chapter_04/)  
 (RAW) [https://photographytriangle.github.io/book/en/chapter_04.md](https://photographytriangle.github.io/book/en/chapter_04.md)
 
-5. **Chapter 5**:  
+6. **Chapter 5**:  
 (HTML) [https://photographytriangle.github.io/book/en/chapter_05/](https://photographytriangle.github.io/book/en/chapter_05/)  
 (RAW) [https://photographytriangle.github.io/book/en/chapter_05.md](https://photographytriangle.github.io/book/en/chapter_05.md)
 
-6. **Chapter 6**:  
+7. **Chapter 6**:  
 (HTML) [https://photographytriangle.github.io/book/en/chapter_06/](https://photographytriangle.github.io/book/en/chapter_06/)  
 (RAW) [https://photographytriangle.github.io/book/en/chapter_06.md](https://photographytriangle.github.io/book/en/chapter_06.md)
 
-7. **Chapter 7**:  
+8. **Chapter 7**:  
 (HTML) [https://photographytriangle.github.io/book/en/chapter_07/](https://photographytriangle.github.io/book/en/chapter_07/)  
 (RAW) [https://photographytriangle.github.io/book/en/chapter_07.md](https://photographytriangle.github.io/book/en/chapter_07.md)
 
-8. **Chapter 8**:  
+9. **Chapter 8**:  
 (HTML) [https://photographytriangle.github.io/book/en/chapter_08/](https://photographytriangle.github.io/book/en/chapter_08/)  
 (RAW) [https://photographytriangle.github.io/book/en/chapter_08.md](https://photographytriangle.github.io/book/en/chapter_08.md)
 
-9. **Chapter 9**:  
+10. **Chapter 9**:  
 (HTML) [https://photographytriangle.github.io/book/en/chapter_09/](https://photographytriangle.github.io/book/en/chapter_09/)  
 (RAW) [https://photographytriangle.github.io/book/en/chapter_09.md](https://photographytriangle.github.io/book/en/chapter_09.md)
 
-10. **Afterword**:  
+11. **Afterword**:  
 (HTML) [https://photographytriangle.github.io/book/en/afterword/](https://photographytriangle.github.io/book/en/afterword/)  
 (RAW) [https://photographytriangle.github.io/book/en/afterword.md](https://photographytriangle.github.io/book/en/afterword.md)
 
-11. **References and additional information**:  
+12. **References and additional information**:  
 (HTML) [https://photographytriangle.github.io/book/en/references/](https://photographytriangle.github.io/book/en/references/)  
 (RAW) [https://photographytriangle.github.io/book/en/references.md](https://photographytriangle.github.io/book/en/references.md)
 
-12. **Full text in a single file** (large; chapter-by-chapter access above is recommended):  
+13. **Full text in a single file** (large; chapter-by-chapter access above is recommended):  
 (HTML) [https://photographytriangle.github.io/book/en/book-en/](https://photographytriangle.github.io/book/en/book-en/)  
 (RAW) [https://photographytriangle.github.io/book/en/book-en.md](https://photographytriangle.github.io/book/en/book-en.md)
 
