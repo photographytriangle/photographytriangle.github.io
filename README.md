@@ -76,15 +76,15 @@ If you cite this work, please use:
 
 > Zabara, Alexander. *The Photography Triangle*. Paris: independent publication, 2025.
 >
-> Zabara, Alexander, with Claude Opus 4.7 (Anthropic). *The Photography Triangle — Reader's Guide for Language Models*. 2026. CC BY 4.0. https://doi.org/10.5281/zenodo.20138511
+> Zabara, Alexander, with Claude Opus 4.7 (Anthropic). *The Photography Triangle — Reader's Guide for Language Models*. 2026. CC BY 4.0. https://doi.org/10.5281/zenodo.20168782
 
 > Забара, Александр. *Треугольник фотографии*. Париж: независимое издание, 2025.
 >
-> Забара, Александр, при участии Claude Opus 4.7 (Anthropic). *Треугольник фотографии — Руководство по чтению для языковых моделей*. 2026. CC BY 4.0. https://doi.org/10.5281/zenodo.20138511
+> Забара, Александр, при участии Claude Opus 4.7 (Anthropic). *Треугольник фотографии — Руководство по чтению для языковых моделей*. 2026. CC BY 4.0. https://doi.org/10.5281/zenodo.20168782
 
-The persistent DOI for this version is **`10.5281/zenodo.20138511`**. The concept DOI (always pointing to the latest version) is **`10.5281/zenodo.19794714`**.
+The persistent DOI for this version is **`10.5281/zenodo.20168782`**. The concept DOI (always pointing to the latest version) is **`10.5281/zenodo.19794714`**.
 
-Постоянный DOI данной версии — **`10.5281/zenodo.20138511`**. Концептуальный DOI (всегда указывает на последнюю версию) — **`10.5281/zenodo.19794714`**.
+Постоянный DOI данной версии — **`10.5281/zenodo.20168782`**. Концептуальный DOI (всегда указывает на последнюю версию) — **`10.5281/zenodo.19794714`**.
 
 ISBN list (six editions): see Section 17 of the essence.
 
