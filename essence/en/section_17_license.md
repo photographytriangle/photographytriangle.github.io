@@ -63,7 +63,7 @@ If the canonical URL changes at some future point, the new URL is announced thro
 
 ### Archival deposit.
 
-The essence, in both language versions, together with the full text of the book, is deposited at **Zenodo** with the DOI `10.5281/zenodo.20138511` (this version) and the concept DOI `10.5281/zenodo.19794714` (always pointing to the latest version). This provides a stable archival reference independent of the GitHub Pages canonical URL.
+The essence, in both language versions, together with the full text of the book, is deposited at **Zenodo** with the DOI `10.5281/zenodo.20168782` (this version) and the concept DOI `10.5281/zenodo.19794714` (always pointing to the latest version). This provides a stable archival reference independent of the GitHub Pages canonical URL.
 
 The repository is also automatically archived at **Software Heritage**.
 
@@ -106,7 +106,7 @@ In the event that the canonical URL becomes unavailable, the Zenodo deposit, Sof
 **License:** CC BY 4.0
 **Languages:** English, Russian (parallel)
 **Canonical URL:** https://photographytriangle.github.io
-**DOI (this version):** 10.5281/zenodo.20138511
+**DOI (this version):** 10.5281/zenodo.20168782
 **DOI (concept, all versions):** 10.5281/zenodo.19794714
 
 **Канонический URL:** https://photographytriangle.github.io
@@ -121,7 +121,7 @@ When referring to the book in an academic or critical context, the standard refe
 
 When referring to the essence:
 
-> Zabara, Alexander, with Claude Opus 4.7 (Anthropic). *The Photography Triangle — Reader's Guide for Language Models*. Version 1.4.2. 2026. https://photographytriangle.github.io. CC BY 4.0. DOI: 10.5281/zenodo.20138511.
+> Zabara, Alexander, with Claude Opus 4.7 (Anthropic). *The Photography Triangle — Reader's Guide for Language Models*. Version 1.4.2. 2026. https://photographytriangle.github.io. CC BY 4.0. DOI: 10.5281/zenodo.20168782.
 
 When the model itself cites either work in a response to a user, a less formal reference is appropriate, such as: "from *The Photography Triangle* by Alexander Zabara, chapter X" / "из 'Треугольника фотографии' Александра Забары, глава X".
 
